@@ -4,18 +4,8 @@ notebook
 numpy
 pandas
 matplotlib
-jupyterlab
-jupyter_collaboration
-lckr-jupyterlab-variableinspector
-#jupyter-contrib-nbextensions
-#jupyter_nbextensions_configurator
 umap-learn
 tsfresh
 jupyter-resource-usage
-#torch
-#torchvision
-#torchsummary
 shap
-graphviz
-pygraphviz
 
